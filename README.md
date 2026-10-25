@@ -16,7 +16,7 @@ I am a freelance Full Stack Web Developer who works remotely with clients to des
 
 - Modern, fully responsive design for all screen sizes
 - Sections for About, Skills, Projects, Experience and Contact
-- Smooth navigation and clean UI
+- Smooth navigation and clean UI.
 - SEO-friendly and fast loading
 - Contact form for client inquiries
 - Built with strict TypeScript for reliable, maintainable code.
