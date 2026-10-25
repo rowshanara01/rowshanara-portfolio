@@ -55,13 +55,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onContactClick, onResumeClick, o
 
         {/* Zone 3: 1 primary action + CV Button + Deploy Guide */}
         <div className="flex items-center gap-2.5 shrink-0">
-          <button
-            onClick={onDeployClick}
-            className="px-2.5 py-1.5 text-xs font-mono font-medium text-cyan-300 hover:text-white bg-cyan-950/80 hover:bg-cyan-900/80 border border-cyan-800/80 rounded-lg transition-colors flex items-center gap-1"
-            title="Deploy to Vercel Guide"
-          >
          
-          </button>
 
           <button
             onClick={onResumeClick}
