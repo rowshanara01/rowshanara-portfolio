@@ -12,7 +12,7 @@ Personal portfolio website of **Rowshanara Akhter (Robia)**, a Full Stack Web De
 
 I am a freelance Full Stack Web Developer who works remotely with clients to design, build and launch fast, reliable and user-friendly web applications. I enjoy turning ideas into production-ready products, from clean front-end interfaces to secure back-end APIs and payment integrations.
 
-## ✨ Portfolio Features
+## ✨ Portfolio Features.
 
 - Modern, fully responsive design for all screen sizes
 - Sections for About, Skills, Projects, Experience and Contact
