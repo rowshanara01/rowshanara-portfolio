@@ -19,7 +19,7 @@ I am a freelance Full Stack Web Developer who works remotely with clients to des
 - Smooth navigation and clean UI
 - SEO-friendly and fast loading
 - Contact form for client inquiries
-- Built with strict TypeScript for reliable, maintainable code
+- Built with strict TypeScript for reliable, maintainable code.
 
 ## 🧰 Skills
 
